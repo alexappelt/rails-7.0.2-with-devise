@@ -1,2 +1,2 @@
 #!/bin/bash
-docker-compose up -d && docker attach $(docker-compose ps -q erp)
+docker-compose up -d && docker attach $(docker-compose ps -q app)

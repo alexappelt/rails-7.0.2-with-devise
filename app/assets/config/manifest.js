@@ -1,10 +1,4 @@
 //= link_tree ../images
 //= link_directory ../stylesheets .css
-//= link_directory ../stylesheets/fontawesome-free/css
 //= link_tree ../../javascript .js
 //= link_tree ../../../vendor/javascript .js
-//= link jquery.js
-//= link jquery-ui.min.js
-//= link bootstrap.bundle.js
-//= link jquery.overlayScrollbars.js
-//= link adminlte.js
